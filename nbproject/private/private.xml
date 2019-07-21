@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/a3/src/Entity/Post.php</file>
+            <file>file:/C:/xampp/htdocs/a3/src/Form/PostType.php</file>
+            <file>file:/C:/xampp/htdocs/a3/src/DataFixtures/AppFixtures.php</file>
+            <file>file:/C:/xampp/htdocs/a3/src/Entity/Category.php</file>
+            <file>file:/C:/xampp/htdocs/a3/src/Entity/SubCategory.php</file>
+            <file>file:/C:/xampp/htdocs/a3/src/DataFixtures/SubCategory.php</file>
+            <file>file:/C:/xampp/htdocs/a3/src/Controller/PostController.php</file>
+        </group>
+    </open-files>
+</project-private>

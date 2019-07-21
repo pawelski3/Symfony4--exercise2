@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}Welcome!{% endblock %}</title>
+        <script
+			  src="https://code.jquery.com/jquery-3.4.1.js"
+			  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+			  crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">                  
+        
+    {% block stylesheets %}{% endblock %}
+</head>
+<body>
+    <div class="container">
+    {% block body %}{% endblock %}
+</div>
+<script src="{{ asset('app.js') }}"></script>
+{% block javascripts %}
+
+{% endblock %}
+</body>
+</html>
